@@ -1,8 +1,0 @@
-{
-    "emailField": "#login-email",
-    "passwordField": "#login-password",
-    "checkBox": "input[type='checkbox']",
-    "loginButton": "#loginButton",
-    "emptyFieldErrorMessage": ".list-unstyled",
-    "credentialsErrorMessage": ".text"
-}

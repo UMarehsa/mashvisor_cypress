@@ -1,0 +1,9 @@
+{
+  "firstName":"Umer",
+  "lastName":"Ehsan",
+  "password":"Abcd1234",
+  "confirmPassword":"Abcd1234",
+  "errorMessage":"Please enter a valid email address (Ex: johndoe@domain.com).",
+  "successMessage":"\nThank you for registering with Main Website Store.\n",
+  "invalidEmail":"umer.gamil.com"
+}

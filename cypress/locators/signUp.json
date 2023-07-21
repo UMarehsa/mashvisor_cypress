@@ -1,0 +1,12 @@
+{
+    "firstName":"#firstname",
+    "lastName":"#lastname",
+    "email":"#email_address",
+    "password":"#password",
+    "passwordConfirmation":"#password-confirmation",
+    "emailAddressError":"#email_address-error",
+    "messageSuccess":".message-success",
+    "actionSwitch":".switch",
+    "signOutBtn":".authorization-link",
+    "submitBtn":"button[title='Create an Account']"
+}

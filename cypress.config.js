@@ -6,7 +6,6 @@ module.exports = defineConfig({
   screenshotOnRunFailure: true,
   chromeWebSecurity: false,
   defaultCommandTimeout: 25000,
-  experimentalMemoryManagement: true,
   numTestsKeptInMemory: 0,
   watchForFileChanges: false,
   videosFolder: 'cypress/videos',
@@ -17,10 +16,9 @@ module.exports = defineConfig({
 
   e2e: {
     experimentalRunAllSpecs: true,
-    baseUrl: "https://www.mashvisor.com/auth",
+    baseUrl: "https://magento.softwaretestingboard.com/customer/account/create/",
 
     specPattern: "cypress/tests/*.{js,jsx,ts,tsx}",
     supportFile: 'cypress/support/commands.js',
-    testIsolation: false
   },
 })
